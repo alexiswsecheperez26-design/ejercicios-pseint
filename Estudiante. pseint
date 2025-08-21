@@ -1,0 +1,10 @@
+Algoritmo Estudiante 
+	//1. definir codigo 
+	Definir esEstudiante Como Logico;
+	//2. tomar y procesar datos 
+	Escribir "¿es usted estudiante? (Verdadero/Falso): ";
+	Leer esEstudiante;
+	//3. mostrar resultado 
+	Escribir "¿es un estudiante?; ", esEstudiante
+
+FinAlgoritmo

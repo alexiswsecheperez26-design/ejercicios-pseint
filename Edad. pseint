@@ -1,0 +1,11 @@
+Algoritmo Edad 
+	//1. definir tipo de variables 
+	definir suEdad Como Entero;
+	//2. tomar datos 
+	Escribir "digite su Edad"
+	Leer suEdad
+	//3. procesar datos 
+	Escribir "tienes ", suEdad , " años"
+	
+	
+FinAlgoritmo

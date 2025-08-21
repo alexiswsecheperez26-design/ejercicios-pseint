@@ -1,0 +1,10 @@
+Algoritmo laLetra
+	//Definir codigo 
+	Definir Letra Como Caracter
+	//tomar datos
+	Escribir "digite una letra"
+	Leer letra 
+	//procesar datos y mostrar resultados 
+	Escribir "la letra asignada es: ", letra
+	
+FinAlgoritmo

@@ -1,0 +1,10 @@
+Algoritmo precio 
+	//1. definir tipo de variables 
+	Definir elprecio Como Real;
+	//2. tomar datos 
+	Escribir "digite el precio";
+	leer elprecio
+	//3. mostrar resultados
+	Escribir "el precio del articulo es $" ,elprecio
+	
+FinAlgoritmo
