@@ -1,9 +1,9 @@
 Funcion sumar <- sumarCinco
-	//tomar y procesar datos
+	
 	Definir sumar, num Como Entero
     sumar <- 0
     Para i <- 1 Hasta 5 Hacer
-        Escribir "Ingrese el sumando Nº ", i, ": "
+        Escribir " Ingrese el sumando NÂº ", i, ": "
         Leer num
         sumar <- sumar + num
     FinPara
@@ -17,7 +17,8 @@ Algoritmo sumarCincoNumeros
 	//inicializar datos
 	sumaTotal <- sumarCinco()
 		//Mostrar resultados
-		Escribir "La suma de los 5 números es: ", sumaTotal
+		Escribir " La suma de los 5 nÃºmeros es: ", sumaTotal
 FinAlgoritmo
+
 
 	
