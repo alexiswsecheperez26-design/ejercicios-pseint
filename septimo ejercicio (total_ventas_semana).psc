@@ -1,15 +1,16 @@
 Algoritmo total_ventas_semana
-	// Definir variables
+	
 	Definir i Como Entero
 	Definir venta, total_ventas Como Real
 	// Inicializar en cero
 	total_ventas <- 0  
-	// Repetir para los 7 días de la semana
+	// Repetir para los 7 dÃ­as de la semana
 	Para i <- 1 Hasta 7 Con Paso 1 Hacer
-		Escribir "Digite las ventas del día ", i, ":";Leer venta
+		Escribir " digite las ventas del dÃ­a ", i, ":";Leer venta
 		total_ventas <- total_ventas + venta
 	FinPara
 	// Mostrar total de ventas
-	Escribir "El total de ventas de la semana es: ", total_ventas
+	Escribir " El total de ventas de la semana es: ", total_ventas
 	
 FinAlgoritmo
+
