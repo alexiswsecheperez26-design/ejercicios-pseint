@@ -1,19 +1,20 @@
-Algoritmo CostoImpresion
-	// Declarar variables
+Algoritmo Costo_Impresion
+	
     Definir paginas Como Entero
     Definir precioPorPagina, costoTotal Como Real
 	
-    // Leer la cantidad de páginas
-    Escribir "Ingrese la cantidad de páginas a imprimir:"
+    // Leer la cantidad de pÃ¡ginas
+    Escribir " Ingrese la cantidad de pÃ¡ginas a imprimir: "
     Leer paginas
 	
-    // Leer el precio por cada página
-    Escribir "Ingrese el precio por cada página:"
+    // Leer el precio por cada pÃ¡gina
+    Escribir " Ingrese el precio por cada pÃ¡gina: "
     Leer precioPorPagina
 	
     // Calcular el costo total
     costoTotal <- paginas * precioPorPagina
 	
     // Mostrar el resultado
-    Escribir "El costo total de la impresión es: $", costoTotal
+    Escribir " El costo total de la impresiÃ³n es: $", costoTotal
 FinAlgoritmo
+
